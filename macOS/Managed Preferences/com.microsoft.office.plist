@@ -36,6 +36,12 @@
         <false />
         <key>DisableCloudFonts</key>
         <true />
+        <key>InstallOutlook</key>
+        <false />
+        <key>InstallOneNote</key>
+        <false />
+        <key>InstallOneDrive</key>
+        <false />
         <key>InstallTeams</key>
         <false />
         <key>InstallDefender</key>
