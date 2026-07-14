@@ -1,8 +1,8 @@
 # Microsoft-Office-Policies
 
-These policies turn off Connected Experiences without requiring the user to log into their Microsoft account and limit telemetry (which is not configurable at all otherwise).
+These policies are written with personal use in mind, so that I can configure Microsoft Office for security and privacy on my personal systems. Certain features are disabled because I see them as unnecessary, annoying, or potentially privacy invasive.
 
-In general, `OfficeExperiencesDownloadingContentPreference` may not as privacy invasive as the other Connected Experiences options; however, I do not have a need for this feature, so I turned it off. Depending on your environment and use-case, you might want to turn it back on.
+In general, `OfficeExperiencesDownloadingContentPreference` and Cloud Fonts may not be as privacy invasive as the other Connected Experiences options; however, I do need these feature, so I turned them off. Depending on your environment and use-case, you might want to turn them back on.
 
 The documentation for Office Policies is scattered on several different pages:
 - https://learn.microsoft.com/en-us/microsoft-365-apps/privacy/mac-privacy-preferences
