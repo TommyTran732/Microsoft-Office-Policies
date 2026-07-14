@@ -12,5 +12,37 @@
         <false />
         <key>ConnectedOfficeExperiencesPreference</key>
         <false />
+        <key>OfficeWebAddinDisableOMEXCatalog</key>
+        <true />
+        <key>OfficeWebAddinDisableAllCatalogs</key>
+        <true />
+        <key>VisualBasicMacroExecutionState</key>
+        <string>DisabledWithWarnings</string>
+        <key>VBAObjectModelIsTrusted</key>
+        <false />
+        <key>AllowVisualBasicToBindToSystem</key>
+        <false />
+        <key>DisableVisualBasicExternalDylibs</key>
+        <true />
+        <key>DisableVisualBasicToBindToPopen</key>
+        <true />
+        <key>DisableVisualBasicMacScript</key>
+        <true />
+        <key>VisualBasicEntirelyDisabled</key>
+        <true />
+        <key>OfficeAutoSignIn</key>
+        <false />
+        <key>ShowWhatsNewOnLaunch</key>
+        <false />
+        <key>DisableCloudFonts</key>
+        <true />
+        <key>InstallTeams</key>
+        <false />
+        <key>InstallDefender</key>
+        <false />
+        <key>InstallCopilot</key>
+        <false />
+        <key>InstallAutoUpdate</key>
+        <true />
     </dict>
 </plist>

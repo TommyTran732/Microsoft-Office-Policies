@@ -4,5 +4,19 @@
     <dict>
         <key>AcknowledgedDataCollectionPolicy</key>
         <string>RequiredDataOnly</string>
+        <key>HowToCheck</key>
+        <string>AutomaticDownload</string>
+        <key>com.microsoft.autoupdate2</key>
+        <string>Current</string>
+        <key>DisableVoiceOverAccessibility</key>
+        <true />
+        <key>DisableEndOfSupportNotifications</key>
+        <false />
+        <key>DisableInsiderCheckbox</key>
+        <true />
+        <key>EnableCheckForUpdatesButton</key>
+        <true />
+        <key>GuardAgainstAppModification</key>
+        <true />
     </dict>
 </plist>
